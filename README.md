@@ -1,23 +1,23 @@
 # linear-regression-modeling
 End-to-end linear regression project using Python and scikit-learn. Includes EDA, data transformation, model training, and evaluation using R² and RMSE. Well-documented notebook with visualizations and insights, suitable for portfolio or stakeholder review.
 
-DESCRIPTION
-This project showcases a complete workflow for building a robust linear regression model using Python and scikit-learn.
+DESCRIPTION </br>
+This project showcases a complete workflow for building a robust linear regression model using Python and scikit-learn. </br>
 
-Overview
-The notebook includes exploratory data analysis, preprocessing, model training, and performance evaluation. The objective is to uncover meaningful relationships in the data, apply appropriate transformations, and build a model that provides accurate predictions.
+Overview </br>
+The notebook includes exploratory data analysis, preprocessing, model training, and performance evaluation. The objective is to uncover meaningful relationships in the data, apply appropriate transformations, and build a model that provides accurate predictions. </br>
 
-Key Components
-Data Exploration: Visualized relationships between key variables and formulated/tested multiple hypotheses
+Key Components </br>
+Data Exploration: Visualized relationships between key variables and formulated/tested multiple hypotheses </br>
 
-Data Preparation: Applied transformations based on EDA insights to improve linearity and model fit
+Data Preparation: Applied transformations based on EDA insights to improve linearity and model fit </br>
 
-Modeling: Implemented a linear regression model with scikit-learn
+Modeling: Implemented a linear regression model with scikit-learn </br>
 
-Evaluation: Assessed model performance using R², adjusted R², RMSE, and residual analysis
+Evaluation: Assessed model performance using R², adjusted R², RMSE, and residual analysis </br>
 
-Visualization: Included plots for model fit, residuals, and predicted vs actual values
+Visualization: Included plots for model fit, residuals, and predicted vs actual values </br>
 
-Conclusion: Summarized insights, explained feature choices, and discussed limitations and improvement areas
+Conclusion: Summarized insights, explained feature choices, and discussed limitations and improvement areas </br>
 
 The notebook is written as a professional report with clear markdown documentation and well-commented code, making it suitable for technical review or stakeholder presentation.
